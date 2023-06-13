@@ -1,0 +1,3 @@
+﻿  third.c
+C:\Users\for\source\repos\third\third\third.c(8,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  third.vcxproj -> C:\Users\for\source\repos\third\Debug\third.exe
